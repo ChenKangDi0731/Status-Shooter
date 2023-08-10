@@ -1,0 +1,5 @@
+ID,Lv_Range,Hp_Increasement,Atk_Increasement,Def_Increasement,Exp_Increasement
+1,0;3,4,3,2,50
+2,3;6,8,4,2,80
+3,6;10,10,5,3,120
+4,10;15,14,7,4,200
